@@ -9,7 +9,7 @@ Selenium, Gradle, and Groovy. The webform allows users to practice filling out v
 - JDK 11
 - Gradle
 - Selenium WebDriver (Java library)
-- JUnit (Java library)
+- JUnit (Testing Framework)
 
 
 ## How to run
